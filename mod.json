@@ -1,0 +1,12 @@
+{
+  "geode": ">=5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "l6322059.nexus-mega-hack",
+  "name": "NEXUS MOD MENU",
+  "version": "v0.1.0",
+  "developer": "l6322059",
+  "description": "A modern premium Geometry Dash utility menu for Geode."
+}
